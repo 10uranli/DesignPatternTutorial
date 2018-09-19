@@ -4,6 +4,7 @@ public class TeamFactory extends AbstractFactory {
 
 	@Override
 	Color getColor(String color) {
+		System.out.println("deneme");
 		return null;
 	}
 
