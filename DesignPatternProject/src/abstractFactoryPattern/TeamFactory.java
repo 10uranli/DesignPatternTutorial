@@ -4,7 +4,7 @@ public class TeamFactory extends AbstractFactory {
 
 	@Override
 	Color getColor(String color) {
-		// TODO Auto-generated method stub
+		System.out.println("deneme");
 		return null;
 	}
 
