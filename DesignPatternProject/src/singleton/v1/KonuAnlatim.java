@@ -8,5 +8,6 @@ public class KonuAnlatim {
 	 * Obje oluþturmak için best ways
 	 * Tek bir obje oluþturmakla görevli bir sýnýfa ihtiyaç duyar.
 	 *  
+	 *  
 	 */
 }
