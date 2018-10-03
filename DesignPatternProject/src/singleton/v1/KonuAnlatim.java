@@ -7,6 +7,6 @@ public class KonuAnlatim {
 	 * Creational petterndir.
 	 * Obje oluþturmak için best ways
 	 * Tek bir obje oluþturmakla görevli bir sýnýfa ihtiyaç duyar.
-	 * 
+	 *  
 	 */
 }
