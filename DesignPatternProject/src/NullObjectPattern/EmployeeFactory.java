@@ -8,7 +8,7 @@ public class EmployeeFactory {
 		
 		for (String dbName : DBNamesList) {
 			if(dbName.equalsIgnoreCase(name)) {
-						return new NotNullEmployee(name);
+						return new NotNullEmployee(name); 
 			}
 		}
 		return new NullEmployee();
