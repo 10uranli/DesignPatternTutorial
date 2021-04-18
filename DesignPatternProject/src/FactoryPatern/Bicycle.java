@@ -1,4 +1,4 @@
-package factoryPatern;
+package FactoryPatern;
 
 public class Bicycle implements Vehicle{
 
